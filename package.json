@@ -3,7 +3,6 @@
     "parse-latest.js"
   ],
   "main": "parse-latest.js",
-  "name": "parse_javascript_sdk_1.5.0",
-  "optionalDependencies": {},
+  "name": "parse-javascript-sdk-1.5.0",
   "version": "1.0.0"
 }
